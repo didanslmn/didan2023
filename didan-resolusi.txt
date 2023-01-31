@@ -3,3 +3,5 @@ Resolusi Didan 2023
 - Membuat project dari html,css,javascript
 - Belajar Advance javascript
 - Belajar Bootsrap dan tanwild css
+- Belajar Python
+- Belajar SQL dan Mongo DB
